@@ -1,0 +1,16 @@
+img.resize{
+  width:50px;
+  height:40px;
+}
+
+h1{
+   text-align: center;
+ }
+
+ul{
+  list-style-type:none;
+}
+
+.events{
+   font-weight: bold;
+}
